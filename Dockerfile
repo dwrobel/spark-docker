@@ -1,4 +1,4 @@
-FROM docker.io/fedora:28
+FROM docker.io/fedora:29
 
 LABEL maintainer="dwrobel@ertelnet.rybnik.pl" description="Base Docker image for building/running Spark (aka pxscene) within Docker"
 
